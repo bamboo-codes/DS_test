@@ -1,2 +1,2 @@
-# DS_test
-My second first repository for my Data Science course
+# Hello World
+Testing out all the features of Github
